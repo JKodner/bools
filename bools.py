@@ -1,3 +1,5 @@
+"""Boolean Module, made by Jacob Kodner"""
+
 def xor(x, y):
 	"""Returns a Boolean resulting in using the XOR method on x and y.\n
 	XOR is equivalent to an OR statement that returns False if both conditions are True.\n
